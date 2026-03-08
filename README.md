@@ -1,1 +1,1 @@
-# Python-test
+# mini-calculation-program
